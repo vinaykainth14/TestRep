@@ -9,7 +9,7 @@ export default class HelloIteration extends LightningElement {
         },
         {
             Id: 2,
-            Name: 'Michael Jones',
+            Name: 'Michael Sean Jones',
             Title: 'VP of Sales',
         },
         {
